@@ -1,0 +1,62 @@
+#heading{
+  position: absolute;
+width: 1167px;
+height: 41px;
+left: 41px;
+top: 33px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 41px;
+
+color: #000000;
+
+
+}
+#pincode{
+  box-sizing: border-box;
+
+position: absolute;
+width: 1308px;
+height: 85px;
+left: 41px;
+top: 100px;
+
+border: 3px solid #000000;
+border-radius: 10px;
+font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+
+}
+#button{
+  position: absolute;
+width: 303px;
+height: 67px;
+left: 41px;
+top: 211px;
+
+background: #000000;
+border-radius: 10px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+}
+#table{
+  position: absolute;
+  top:300px;
+  left:50px;
+  
+}
